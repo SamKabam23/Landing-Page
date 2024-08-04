@@ -76,10 +76,10 @@ Explore the website to learn more about my background, skills, and projects. Use
 
 ## Screenshots
 
-![About Me Section]
+About Me Section:
 *The "About Me" section featuring my background and experiences.*
 
-![Experience Section]
+Experience Section:
 *The "Experience" section showcasing my skills in frontend development and cybersecurity.*
 
 ## Inspiration
