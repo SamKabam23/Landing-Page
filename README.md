@@ -76,10 +76,10 @@ Explore the website to learn more about my background, skills, and projects. Use
 
 ## Screenshots
 
-![About Me Section](./assets/about_me.png)
+![About Me Section]
 *The "About Me" section featuring my background and experiences.*
 
-![Experience Section](./assets/experience.png)
+![Experience Section]
 *The "Experience" section showcasing my skills in frontend development and cybersecurity.*
 
 ## Inspiration
